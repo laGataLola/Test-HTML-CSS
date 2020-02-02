@@ -1,5 +1,13 @@
+body {
+    background-color: #121212;
+}
+
 body, td, th {
     color: #666666;
+}
+
+.main {
+    background-color: white;
 }
 
 th {
