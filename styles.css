@@ -9,3 +9,11 @@ header {
 header h2 {
     font-weight: lighter;
 }
+
+.card {
+    border: none;
+}
+
+.card img {
+    border-radius: 0;
+}
