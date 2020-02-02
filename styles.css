@@ -2,7 +2,7 @@ body {
     background-color: #121212;
 }
 
-body, td, th {
+body, td, th, a, a:hover {
     color: #666666;
 }
 
@@ -70,3 +70,12 @@ header h2 {
     color: #292929;
 }
 
+footer {
+    font-size: 0.8em;
+    font-weight: lighter;
+    padding-bottom: 2em;
+}
+
+footer a {
+    text-decoration: underline;
+}
