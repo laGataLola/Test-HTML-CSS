@@ -26,6 +26,10 @@ header h2 {
     font-weight: lighter;
 }
 
+h3 {
+    font-weight: lighter;
+}
+
 .card {
     border: none;
 }
