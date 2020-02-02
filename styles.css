@@ -1,0 +1,11 @@
+header {
+    text-align: center;
+    background-color: #292929;
+    color: white;
+    padding: 1.2em 0;
+    border-top: 3px solid red;
+}
+
+header h2 {
+    font-weight: lighter;
+}
