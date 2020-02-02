@@ -1,3 +1,11 @@
+body, td, th {
+    color: #666666;
+}
+
+th {
+    font-weight: normal;
+}
+
 header {
     text-align: center;
     background-color: #292929;
@@ -53,3 +61,4 @@ header h2 {
 .icons a:hover {
     color: #292929;
 }
+
