@@ -17,3 +17,20 @@ header h2 {
 .card img {
     border-radius: 0;
 }
+
+.btn-primary {
+    background-color: orangered;
+    border-color: orangered;
+    border-radius: 0;
+    font-weight: lighter;
+}
+
+.btn-primary:hover {
+    background-color: orange;
+    border-color: orange;
+}
+
+.btn-lg {
+    font-size: 1.7em;
+    padding: 0.5em 1em; 
+}
