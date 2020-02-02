@@ -34,3 +34,9 @@ header h2 {
     font-size: 1.7em;
     padding: 0.5em 1em; 
 }
+
+.separator {
+    border-bottom: 20px #292929 solid;
+    margin-bottom: 3em;
+    padding-bottom: 1.5em;
+}
